@@ -1,4 +1,2 @@
-*Seveteen
-*Monsta X
-   *NCT
-   *EXO
+- Seventeen
+- Monsta X
