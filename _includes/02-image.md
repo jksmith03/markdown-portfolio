@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Sherb from Animal Crossing](https://villagerdb.com/images/villagers/full/sherb.ee7e96f.png)
