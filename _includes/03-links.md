@@ -1,1 +1,1 @@
-https://github.com/jksmith03
+[GitHub Profile](https://github.com/jksmith03)
